@@ -1,10 +1,10 @@
 {
  "name":   "libgit2",
- "github": "libgit2/libgit2",
+ "github": "auraecosystem/libgit2",
  "input":  "include",
  "prefix": "git_",
  "output": "docs",
- "branch": "gh-pages",
+ "branch": "github-pages",
  "examples": "examples",
  "legacy":  {
     "input": {"src/git": ["v0.1.0"],
